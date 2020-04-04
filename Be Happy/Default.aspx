@@ -15,5 +15,5 @@
           </p>
         </div>
     </div>
-
+    <script src="Content/Javascript/home.js"></script>
 </asp:Content>
