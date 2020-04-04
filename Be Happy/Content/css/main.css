@@ -1,0 +1,16 @@
+﻿.site_logo{
+    position: fixed;
+    top:40%;
+    left:45%;
+}
+.under_logo{
+    position: fixed;
+    top: 60%;
+    left: 48%;
+}
+.under_logo_text{
+
+}
+body {
+    background-color: rgb(19, 206, 102);
+}
